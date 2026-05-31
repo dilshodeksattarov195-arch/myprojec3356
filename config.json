@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvender",
+        "uuid": 15722860,
+        "checksum": "xtdxvc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
